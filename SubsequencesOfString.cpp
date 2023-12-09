@@ -1,4 +1,4 @@
-Subsequences of String
+
 #include <iostream>
 #include <string>
 #include <vector>
